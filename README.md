@@ -11,7 +11,7 @@ I'm design-minded mobile app developer focused on building beautiful interfaces 
 
 - LinkedIn: coming soon
 - Site: [riccardocalligaro.github.io](https://riccardocalligaro.github.io/)
-- E-mail: riccardocalligaro@gmail.com
+- E-mail: [riccardocalligaro@gmail.com](mailto:riccardocalligaro@gmail.com)
 
 ### 📚 Looking for my Resume? E-Mail me!
 
