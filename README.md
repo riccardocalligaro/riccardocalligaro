@@ -2,7 +2,7 @@
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-expert-_.svg?logo=flutter"></a>
   <a href="#"><img src="https://img.shields.io/badge/Swift-enthusiast-_.svg?logo=swift"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-evangelist-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20code-evangelist-_.svg"></a>
 </p>
 
 I'm design-minded mobile app developer focused on building beautiful interfaces & experiences 
