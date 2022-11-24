@@ -5,7 +5,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Clean%20code-evangelist-_.svg"></a>
 </p>
 
-I'm design-minded mobile app developer focused on building beautiful interfaces & experiences 
+I'm a full-stack developer focused on building beautiful interfaces and experiences
 
 ### 📬 Get in Touch
 
