@@ -1,7 +1,8 @@
 # Hello, I'm Riccardo Calligaro 👋
 <p>
+  <a href="#"><img src="https://img.shields.io/badge/Frontend-React-blue?logo=react"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Backend-.NET-purple?logo=dotnet"></a>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-expert-_.svg?logo=flutter"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Swift-enthusiast-_.svg?logo=swift"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20code-evangelist-_.svg"></a>
 </p>
 
