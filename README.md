@@ -16,6 +16,4 @@ I'm a full-stack developer focused on building beautiful interfaces and experien
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Riccardo Calligaro's github stats](https://github-readme-stats.vercel.app/api?username=riccardocalligaro&show_icons=true&hide_border=true)
-
 🔗 Visit my latest projects [passione-vespa.it](https://www.passione-vespa.it) and [polydesk.app](https://polydesk.app/) - any feedback is appreciated 😁
