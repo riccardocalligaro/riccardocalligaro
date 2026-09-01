@@ -11,7 +11,7 @@ I'm a full-stack developer focused on building beautiful interfaces and experien
 ### 📬 Get in Touch
 
 - LinkedIn: [Riccardo Calligaro](https://www.linkedin.com/in/riccardo-calligaro-01b424124/)
-- Site: [riccardocalligaro.github.io](https://riccardocalligaro.github.io/)
+- Site: [riccard0.dev](https://riccard0.dev/)
 - E-mail: [riccardocalligaro@gmail.com](mailto:riccardocalligaro@gmail.com)
 
 ### 📚 Looking for my Resume? E-Mail me!
